@@ -52,9 +52,25 @@
     color: rgb(192, 51, 138);
 }
 
-.card-body p {
-    text-align: justify;
+#facilities h1 {
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(86, 85, 85);
+    margin-left: 20px;
 }
+
+.card-body h2,
+p {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.people img {
+    width: 400px;
+    padding-right: 5px;
+    margin-top: 2rem;
+}
+
 
 .footer-section {
     height: 200px;
