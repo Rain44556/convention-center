@@ -1,6 +1,12 @@
+#logo,
 .logo {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-transform: uppercase;
+    color: rgba(131, 46, 131, 0.863);
+}
+
+#navbarSupportedContent a {
+    color: rgba(131, 46, 131, 0.863);
 }
 
 .carousel-caption h3 {
